@@ -15,7 +15,7 @@
 
 ## Current Project
 
-🚀 Customer Churn Prediction System
+🚀 Customer Churn App
 
 
 ## Goals for 2026
