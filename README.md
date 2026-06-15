@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Pranav 👋
 
-<!--
-**Pranav-Dhadwal/Pranav-Dhadwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student
 
-Here are some ideas to get you started:
+📊 Aspiring Data Scientist passionate about Machine Learning, Data Analytics, and Model Deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+
+* Python
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
+* Scikit-learn
+
+## Current Project
+
+🚀 Customer Churn Prediction System
+
+
+## Goals for 2026
+
+* Strengthen SQL and Data Analytics skills
+* Build real-world machine learning projects
+* Learn Power BI
+* Improve deployment and MLOps knowledge
